@@ -122,7 +122,9 @@ Features include:
 ## 👤 Author
 
 Nguyen Ngoc Lam Dan
+
 Swinburne University of Technology – Vietnam
+
 COS30082 Applied Machine Learning
 
 ## License
