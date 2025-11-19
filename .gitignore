@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Zip
+*.zip
+
+# HTML exports
+*.html
+
+# Models (optional: remove if you want to include them)
+*.h5
+*.keras
+*.ckpt
+*.pb
+*.npy
+*.npz
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
